@@ -8,10 +8,17 @@
                 </div>
                 <div class="sidebar-brand-text mx-3">My CARGO </div>
             </a>
-
             <!-- Divider -->
-            <hr class="sidebar-divider">
+            <hr class="sidebar-divider d-none d-md-block">
+            <div class="sidebar-heading">
+                Administator
+            </div>
 
+            <li class="nav-item">
+                <a class="nav-link" href="dashboard">
+                <i class="fas fa-eye"></i>
+                    <span>Dashboard</span></a>
+            </li>
 
             <?php
             $role_id = $this->session->userdata('role_id');
@@ -24,18 +31,13 @@
             $menu = $this->db->query($queryMenu)->result_array();
 
 
-
-
             ?>
             <!-- LOOPING MENU -->
             <?php foreach ($menu as $m) : ?>
+                </li>
+                
 
-
-                <!-- Heading -->
-                <div class="sidebar-heading">
-                    <?= $m['menu']; ?>]
-                </div>
-                <!-- menyiapkan sub-menu sesuai menu-->
+                                <!-- menyiapkan sub-menu sesuai menu-->
                 <?php
                 $menuid = $m['id'];
                 $querySubMenu = "SELECT *
@@ -48,6 +50,12 @@
                 $submenu = $this->db->query($querySubMenu)->result_array();
 
                 ?>
+                            <!-- Divider -->
+            <hr class="sidebar-divider d-none d-md-block">
+            <div class="sidebar-heading">
+            
+            </div>
+            </li>
                 <?php foreach ($submenu as $sm) : ?>
                     <?php if ($title ==  $sm['title']) : ?>
                         <li class="nav-item active">
@@ -66,9 +74,29 @@
 
 
                 <?php endforeach; ?>
+                
+                <!-- Divider -->
+                <hr class="sidebar-divider d-none d-md-block">
+                <div class="sidebar-heading">
+                    Departure and Arrival
+                </div>
 
-
-
+                <li class="nav-item">
+                    <a class="nav-link" href="jadwal.html">
+                    <i class="far fa-calendar-alt"></i>
+                        <span>Jadwal</span></a>
+                </li>
+                
+                <!-- Divider -->
+                <hr class="sidebar-divider d-none d-md-block">
+                <div class="sidebar-heading">
+                    Menu
+                </div>
+                <li class="nav-item">
+                    <a class="nav-link" href="cektarif.html">
+                    <i class="fas fa-money-bill-wave"></i>
+                        <span>Cek Tarif</span></a>
+                </li>
 
 
                 <!-- Divider -->

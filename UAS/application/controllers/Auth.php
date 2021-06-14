@@ -24,7 +24,7 @@ class Auth extends CI_Controller
         ]);
 
         if ($this->form_validation->run() == false) {
-            $data['title'] = 'MY CARGO Login';
+            $data['title'] = 'Login';
             $this->load->view('templates/auth_header', $data);
             $this->load->view('Auth/login');
             $this->load->view('templates/auth_footer');
