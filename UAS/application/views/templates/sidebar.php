@@ -82,7 +82,7 @@
                 </div>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="jadwal.html">
+                    <a class="nav-link" href="jadwal">
                     <i class="far fa-calendar-alt"></i>
                         <span>Jadwal</span></a>
                 </li>
@@ -93,9 +93,18 @@
                     Menu
                 </div>
                 <li class="nav-item">
-                    <a class="nav-link" href="cektarif.html">
+                    <a class="nav-link" href="cektarif">
                     <i class="fas fa-money-bill-wave"></i>
                         <span>Cek Tarif</span></a>
+                </li>
+                <hr class="sidebar-divider d-none d-md-block">
+                <div class="sidebar-heading">
+                    
+                </div>
+                <li class="nav-item">
+                    <a class="nav-link" href="about">
+                    <i class="fas fa-info-circle"></i>
+                        <span>About</span></a>
                 </li>
 
 

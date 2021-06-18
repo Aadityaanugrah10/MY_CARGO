@@ -6,7 +6,7 @@
     <!doctype html>
 <html lang="en">
     <body>
-    <link rel="stylesheet" type="text/css" href="assets/css/sb-admin-2">
+    <link rel="stylesheet" type="text/css" href="assets/css/dashboard.css">
         <section id="home" class="py-5">
             <div class="container">
                 <div class="row">
@@ -16,7 +16,7 @@
                         #KAMISOLUSINYA</p>
                     </div>                    
                     <div class="col-sm-7">
-                        <img src="assets/img/pertanian.jpeg" height="445px" width="auto">
+                        <img src="assets/img/kapal.jpg" height="350px" width="auto">
                         </div>
                     </div>  
                 </div>
@@ -25,10 +25,10 @@
         <footer>
             <div class="main-content">
                 <div class="left box">
-                    <h2> About Us </h2>
+                    <h2>  </h2>
                     <hr>
                     <div class="content">
-                        <p>MyPupuk merupakan sebuah Aplikasi berbasis Web yang mempunyai sejumlah informasi terkait Pupuk-Pupuk terbaik yang di produksi oleh perusahaan-perusahaan terkenal yang ada di Indonesia. MyPupuk juga menyediakan Artikel untuk membantu Petani dalam memilih Pupuk yang akan digunakan. </p>
+                        <p>MyCargo adalah sebuah laporan pendataan kapal ekspedisi saat kapal berlabuh atau meninggalkan pelabuhan. Jadi MyCargo adalah aplikasinya pengiriman barang berbasis web, yang mengutamakan barang berbobot ringan hingga berat sekali pun. MyCargo juga dapat menjamin pengirim barang kurang lebih dari 7 hari dan barang tetap dengan keadaan baik.</p>
                     </div>
                 </div>
             <div class="center box">

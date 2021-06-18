@@ -1,0 +1,71 @@
+/*background*/
+body{
+    background: url("assets/img/laut.jpg");
+    color:#1a1a1a;
+}
+
+
+
+/* FOOTER */
+
+footer{
+	bottom: 0;
+	width: 100%;
+	background-color: #4e73df;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+}
+footer .main-content{
+	display: flex;
+}
+.main-content .box{
+	flex-basis: 50%;
+	padding: 20px 40px;
+}
+
+.box h2{
+	font-size: 1.125rem;
+	text-transform: uppercase;
+	font-weight: 100;
+}
+.box .content{
+	margin: 20px 0 0 0;
+}
+.left .content p{
+	text-align: justify;
+}
+.center {
+	margin-left: 10%;
+}
+.center .content i{
+	height: 40px;
+	width: 40px;
+	background-color: #1a1a1a;
+	line-height: 40px;
+	text-align: center;
+	font-size: 18px;
+	border-radius: 50%;
+	margin-top: 5px;
+}
+.center .content i:hover{
+	background-color: pink;
+}
+.right {
+	margin-left: -4%;
+}
+.right .btn button{
+	padding: 3px 90px; 
+	margin-left: -13px;
+	background-color: green;
+}
+.right .btn button:hover{
+	color: white;
+}
+.right .content .email input{
+	padding: 2px 6px;
+}
+
+footer hr{
+	width: 10%;
+	margin-left: 0;
+}
