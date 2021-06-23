@@ -29,7 +29,7 @@
                                 <tr>
 									<td>02 September 2021</td>
 									<td>KM. Dharma Rucitra PK 001</td>
-									<td>Semarang - Banjarmasin</td>
+									<td>Semarang - jakarta</td>
 									<td>14:00 - 08:00 WIB</td>
                                     <td>Motor CBR250 (250cc)</td>
 									<td>Rp. 600.000.00</td>
@@ -49,7 +49,7 @@
                                 <tr>
 									<td>Minggu, 10 September 2021</td>
 									<td>KM. Dharma Rucitra AS 221</td>
-									<td>Semarang - Kumai</td>
+									<td>Semarang - Banyuwangi</td>
 									<td>14:00 - 05:00 WIB</td>
                                     <td>Beras Petani Hebat (100kg)</td>
 									<td>Rp. 100.000.00</td>
@@ -60,7 +60,17 @@
 									<td>Senin, 30 Agustus 2021</td>
 									<td>KM. Dharma Rucitra AN 213</td>
 									<td>Semarang - Pangkalan Bun</td>
-									<td>14:00 - 05:00 WIB</td>
+									<td>04:00 - 13:00 WIB</td>
+                                    <td>Truck Canter (5000+cc)</td>
+									<td>Rp. 6.500.000.00</td>
+								</tr>
+                            </tbody>
+                            <tbody>
+                                <tr>
+									<td>Senin, 30 Agustus 2021</td>
+									<td>KM. Dharma Rucitra AN 220</td>
+									<td>Jakarta - Bandar Lampung</td>
+									<td>05:00 - 08:00 WIB</td>
                                     <td>Motor Supra X 2015 (110cc)</td>
 									<td>Rp. 350.000.00</td>
 								</tr>
@@ -68,41 +78,31 @@
                             <tbody>
                                 <tr>
 									<td>Senin, 30 Agustus 2021</td>
-									<td>KM. Dharma Rucitra AN 213</td>
-									<td>Semarang - Pangkalan Bun</td>
+									<td>KM. Dharma Rucitra AN 224</td>
+									<td>Jakarta - Banyuwangi</td>
 									<td>14:00 - 05:00 WIB</td>
-                                    <td>Motor Supra X 2015 (110cc)</td>
+                                    <td>Truck Tronton (5000+cc)</td>
 									<td>Rp. 350.000.00</td>
 								</tr>
                             </tbody>
                             <tbody>
                                 <tr>
 									<td>Senin, 30 Agustus 2021</td>
-									<td>KM. Dharma Rucitra AN 213</td>
-									<td>Semarang - Pangkalan Bun</td>
-									<td>14:00 - 05:00 WIB</td>
-                                    <td>Motor Supra X 2015 (110cc)</td>
-									<td>Rp. 350.000.00</td>
+									<td>KM. Dharma Rucitra AN 245</td>
+									<td>Jakarta - Banjarmasin</td>
+									<td>14:00 - 03:00 WIB</td>
+                                    <td>BIS ELF (2000+cc)</td>
+									<td>Rp. 3000.000.00</td>
 								</tr>
                             </tbody>
                             <tbody>
                                 <tr>
 									<td>Senin, 30 Agustus 2021</td>
-									<td>KM. Dharma Rucitra AN 213</td>
-									<td>Semarang - Pangkalan Bun</td>
+									<td>KM. Dharma Rucitra AN 243</td>
+									<td>Jakarta - Karimun Jawa</td>
 									<td>14:00 - 05:00 WIB</td>
-                                    <td>Motor Supra X 2015 (110cc)</td>
-									<td>Rp. 350.000.00</td>
-								</tr>
-                            </tbody>
-                            <tbody>
-                                <tr>
-									<td>Senin, 30 Agustus 2021</td>
-									<td>KM. Dharma Rucitra AN 213</td>
-									<td>Semarang - Pangkalan Bun</td>
-									<td>14:00 - 05:00 WIB</td>
-                                    <td>Motor Supra X 2015 (110cc)</td>
-									<td>Rp. 350.000.00</td>
+                                    <td>BIS Pariwisata (5000+cc)</td>
+									<td>Rp. 6.500.000.00</td>
 								</tr>
                             </tbody>
                         </table>
