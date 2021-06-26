@@ -1,10 +1,6 @@
 <!-- Begin Page Content -->
 <div class="container-fluid">
 <div class="col-sm-12">
-                <ol class="breadcrumb float-sm-right">
-                    <li class="breadcrumb-item"><a href="http://localhost/MY_CARGO/UAS/dashboard">Beranda</a></li>
-                </ol>
-            </div>
     <!-- Page Heading -->
     <h1 class="h3 mb-4 text-gray-800"><?= $title; ?></h1> 
     <section class="content">
