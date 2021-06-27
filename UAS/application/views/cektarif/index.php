@@ -1,10 +1,6 @@
 <!-- Begin Page Content -->
 <div class="container-fluid">
 <div class="col-sm-12">
-                <ol class="breadcrumb float-sm-right">
-                    <li class="breadcrumb-item"><a href="http://localhost/MY_CARGO/UAS/dashboard">Beranda</a></li>
-                </ol>
-            </div>
     <!-- Page Heading -->
     <h1 class="h3 mb-4 text-gray-800"><?= $title; ?></h1> 
     <section class="content">
@@ -119,6 +115,21 @@
                             </tbody>
                         </table>
                     </div>
+                        <table id="table-data" class="table table-bordered table-striped text-center table-responsive-sm">
+                            <thead>
+                                <tr>
+									<th>Minyak</th>
+                                    <th>Liter</th>
+									<th>Biaya/Liter</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+									<td>-</td>
+                                    <td>-</td>
+									<td>Rp. 750</td>
+								</tr>
+                            </tbody>
                 </div>
 
                 </div>
