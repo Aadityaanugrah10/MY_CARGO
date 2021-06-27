@@ -86,6 +86,39 @@
 									<td>Rp. 350.000</td>
 								</tr>
                             </tbody>
+                            </tbody>  
+                                <tr>  
+									<td>Senin, 29 Agustus 2021</td>
+                                    <td>Beben Hendro</td>
+									<td>KM. Dharma Rucitra AN 293</td>
+									<td>Semarang - Palembang</td>
+									<td>11:00 - 09:00 WIB</td>
+                                    <td>Motor Revo 2019 (125cc)</td>
+									<td>Rp. 350.000</td>
+                                </tr>
+                            </tbody> 
+                            <body> 
+                            <tr>  
+									<td>Senin, 02 September 2021</td>
+                                    <td>Arman</td>
+									<td>KM. Dharma Rucitra AN 053</td>
+									<td>Semarang - Bengkulu</td>
+									<td>11:00 - 20:00 WIB</td>
+                                    <td>Solar 500 liter</td>
+									<td>Rp. 35.000</td>
+                                </tr>
+                            </tbody> 
+                            <body> 
+                            <tr>  
+									<td>Minggu, 09 September 2021</td>
+                                    <td>Saipul Jamil</td>
+									<td>KM. Dharma Rucitra AN 093</td>
+									<td>Semarang - Bangkalan</td>
+									<td>13:00 - 20:00 WIB</td>
+                                    <td>Pertamax 35.000 liter</td>
+									<td>Rp. 262.500</td>
+                                </tr>
+                            </tbody> 
                         </table>
                     </div>
                 </div>

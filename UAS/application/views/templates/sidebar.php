@@ -53,7 +53,7 @@
                             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
             <div class="sidebar-heading">
-            
+                Profile
             </div>
             </li>
                 <?php foreach ($submenu as $sm) : ?>
@@ -78,7 +78,7 @@
                 <!-- Divider -->
                 <hr class="sidebar-divider d-none d-md-block">
                 <div class="sidebar-heading">
-                    Departure and Arrival
+                    Menu
                 </div>
 
                 <li class="nav-item">
@@ -88,16 +88,11 @@
                 </li>
                 
                 <!-- Divider -->
-                <hr class="sidebar-divider d-none d-md-block">
-                <div class="sidebar-heading">
-                    Menu
-                </div>
                 <li class="nav-item">
                     <a class="nav-link" href="cektarif">
                     <i class="fas fa-money-bill-wave"></i>
                         <span>Cek Tarif</span></a>
                 </li>
-                <hr class="sidebar-divider d-none d-md-block">
                 <div class="sidebar-heading">
                     
                 </div>
