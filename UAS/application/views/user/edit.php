@@ -1,12 +1,14 @@
 <!-- Begin Page Content -->
 <div class="container-fluid">
-
+<ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="http://localhost/MY_CARGO/UAS/dashboard">Beranda</a></li>
+                </ol>
     <!-- Page Heading -->
     <h1 class="h3 mb-4 text-gray-800"><?= $title; ?></h1>
 
     <div class="row" href="dashboard">
         <div class="col-lg-8">
-
+            </div>
             <?=  form_open_multipart('user/edit');?>
             <div class="form-group row">
                 <label for="email" class="col-sm-2 col-form-label">Email</label>
@@ -43,9 +45,8 @@
             </div>
         </div>
     </div>
-
     <div class="form-group row justify-contend-end">
-        <div class="col-sm-10">
+        <div class="col-sm-6">
             <button type="submit" class="btn btn-primary">Edit</button>
         </div>
     </div>
