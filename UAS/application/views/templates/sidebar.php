@@ -2,7 +2,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="dashboard">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-ship"></i>
                 </div>
@@ -53,7 +53,7 @@
                             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
             <div class="sidebar-heading">
-                Profile
+            
             </div>
             </li>
                 <?php foreach ($submenu as $sm) : ?>
@@ -78,7 +78,7 @@
                 <!-- Divider -->
                 <hr class="sidebar-divider d-none d-md-block">
                 <div class="sidebar-heading">
-                   Menu
+                    Departure and Arrival
                 </div>
 
                 <li class="nav-item">
@@ -88,11 +88,16 @@
                 </li>
                 
                 <!-- Divider -->
+                <hr class="sidebar-divider d-none d-md-block">
+                <div class="sidebar-heading">
+                    Menu
+                </div>
                 <li class="nav-item">
                     <a class="nav-link" href="cektarif">
                     <i class="fas fa-money-bill-wave"></i>
                         <span>Cek Tarif</span></a>
                 </li>
+                <hr class="sidebar-divider d-none d-md-block">
                 <div class="sidebar-heading">
                     
                 </div>

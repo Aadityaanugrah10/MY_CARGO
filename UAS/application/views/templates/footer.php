@@ -24,15 +24,15 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Siapkah Anda Keluar?</h5>
+                <h5 class="modal-title" id="exampleModalLabel">Hayoo mau keluar?</h5>
                 <button class="close" type="button" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">×</span>
                 </button>
             </div>
-            <div class="modal-body">Jika anda keluar maka akan kembali ke menu Login</div>
+            <div class="modal-body">Tekan iya</div>
             <div class="modal-footer">
                 <button class="btn btn-secondary" type="button" data-dismiss="modal">Batal</button>
-                <a class="btn btn-primary" href="<?= base_url('auth/logout'); ?>">Ya</a>
+                <a class="btn btn-primary" href="<?= base_url('auth/logout'); ?>">Iya</a>
             </div>
         </div>
     </div>
