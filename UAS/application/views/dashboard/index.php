@@ -6,7 +6,7 @@
     <!doctype html>
 <html lang="en">
     <body>
-    <link rel="stylesheet" type="text/css" href="assets/css/dashboard.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/sb-admin-2.css">
         <section id="home" class="py-5">
             <div class="container">
                 <div class="row">
