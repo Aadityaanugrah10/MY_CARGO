@@ -33,7 +33,7 @@
                             </thead>
                             <tbody>
                                 <tr>
-									<td>02 September 2021</td>
+									<td>Minggu, 02 September 2021</td>
                                     <td>Malik Kurniawan</td>
 									<td>KM. Dharma Rucitra PK 001</td>
 									<td>Semarang - Banjarmasin</td>
